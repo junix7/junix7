@@ -4,7 +4,9 @@
 
 ![image label](https://media.discordapp.net/attachments/634094365140320267/732348606358749264/rules.png?width=744&height=458)
 -->
-I’m a computer systems analyst 🖥️, proactive and creative web developer 💻️. I keep a close eye on front-end development 🌐️, web standards and web performance ⚡️.
+I’m a computer systems analyst 🖥️, proactive and creative web developer 💻️. I keep a close eye on front-end development 🌐️, 
+web standards and web performance ⚡️.
+
 I write about linux and technology in some blogs ✏️ 📒️.
 
 
