@@ -19,6 +19,6 @@ I write about linux and technology in some blogs ✏️ 📒️.
 
 You can follow me in the next sites/platforms where I constantly publish new content 😉️
 
-- 🐦️ [Twitter](https://twitter.com/junix7)
+- 🐦️ [Twitter](https://twitter.com/junix_7)
 - 📝️ [Blog](http://junix.epizy.com/blog/)
 - 💼️ [Portfolio](http://junix.epizy.com)
