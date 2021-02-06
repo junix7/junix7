@@ -21,4 +21,4 @@ You can follow me in the next sites/platforms where I constantly publish new con
 
 - 🐦️ [Twitter](https://twitter.com/junix_7)
 - 📝️ [Blog](http://junix.epizy.com/blog/)
-- 💼️ [Portfolio](http://junix.epizy.com)
+- 💼️ [Portfolio](https://junix7.github.io/portafolio/)
