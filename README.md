@@ -22,3 +22,14 @@ You can follow me in the next sites/platforms where I constantly publish new con
 - 🐦️ [Twitter](https://twitter.com/junix_7)
 - 📝️ [Blog](http://junix.epizy.com/blog/)
 - 💼️ [Portfolio](https://junix7.github.io/portafolio/)
+
+
+## GitHub Profile Trophy
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=junix7&theme=darkhub&margin-w=45)
+
+## GitHub Stats
+
+| Most Used Languages | GitHub Stats |
+| ------------------- | ------------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junix7&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=junix7&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
